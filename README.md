@@ -10,10 +10,6 @@
   <a href="mailto:dylan@wlim.work">Email</a>
 </p>
 
-<p align="center">
-  Finance + CS Student in New York City at Fordham.
-</p>
-
 
 ## Current Focus
 
