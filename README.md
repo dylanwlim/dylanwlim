@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Finance + CS Student in New York City at Fordham. Specialized interest in bioinformatics, founder of Alpinix, and builder of tools across healthcare and finance.
+  Finance + CS Student in New York City at Fordham.
 </p>
 
 
