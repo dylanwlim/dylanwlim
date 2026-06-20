@@ -28,10 +28,7 @@ Below are some of my personal favorite products I have released:
 | --- | --- | --- |
 | Portfolio | [Link](https://dylanwlim.com) · [Docs](https://github.com/dylanwlim/portfolio-docs) | Personal site, project map, public profile |
 | PharmaPath | [Link](https://pharmapath.org) · [Docs](https://github.com/dylanwlim/pharmapath-docs) | Medication and pharmacy-pathway tool |
-| Alpinix | [Link](https://alpinix.co) · [Docs](https://github.com/dylanwlim/alpinix-docs) | Private operations product |
-| Ascent | [Link](https://ascent.dylanwlim.com) · [Docs](https://github.com/dylanwlim/ascent-docs) | Client-side portfolio risk, efficiency, and rebalancing analysis |
 | Transcribble | [Link](https://transcribble.dylanwlim.com) · [Docs](https://github.com/dylanwlim/transcribble-docs) | File transcription, decoding, and conversion workflows |
-| DWL Games | [Link](https://games.dylanwlim.com) · [Docs](https://github.com/dylanwlim/games-docs) | Browser games with progress and achievement surfaces |
 
 ## Contact
 
