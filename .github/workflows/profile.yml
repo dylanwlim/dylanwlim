@@ -1,0 +1,47 @@
+name: Profile Check
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  profile-check:
+    name: Profile Check
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Validate profile files
+        shell: bash
+        run: |
+          set -euo pipefail
+          for file in README.md banner.svg map.svg; do
+            if [ ! -s "$file" ]; then
+              echo "::error::Missing or empty $file"
+              exit 1
+            fi
+          done
+
+          while IFS= read -r file; do
+            case "$file" in
+              ./.git/*|./.github/*|./README.md|./banner.svg|./map.svg)
+                ;;
+              *)
+                echo "::error::Unexpected profile file: ${file#./}"
+                exit 1
+                ;;
+            esac
+          done < <(find . -type f | sort)
