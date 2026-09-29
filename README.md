@@ -10,30 +10,20 @@
   <a href="mailto:dylan@wlim.work">Email</a>
 </p>
 
-
 ## Current Focus
 
-- Studying Finance and Computer Science at Fordham University.
-- Working on tools and building compute for bioinformatics. My work can be found [here](https://dylanwlim.com/).
+I study Finance with a Computer Science minor at Fordham University. I build pharmacoinformatics research tools, local-first software, and focused Mac utilities.
 
 ## Selected Work
 
-Below are some of my personal favorite products I have released:
-
-<p align="center">
-  <img src="map.svg" alt="Public product map for Dylan W. Lim" width="100%">
-</p>
-
-| Product | Public Surface | Scope |
+| Product | Public surface | Scope |
 | --- | --- | --- |
-| Portfolio | [Link](https://dylanwlim.com) · [Docs](https://github.com/dylanwlim/portfolio-docs) | Personal site, project map, public profile |
-| PharmaPath | [Link](https://pharmapath.org) · [Docs](https://github.com/dylanwlim/pharmapath-docs) | Medication and pharmacy-pathway tool |
-| Transcribble | [Link](https://transcribble.dylanwlim.com) · [Docs](https://github.com/dylanwlim/transcribble-docs) | File transcription, decoding, and conversion workflows |
+| Alpinix | [Website](https://alpinix.co) | Account-protected molecule and source-backed biotech research workspace |
+| PharmaPath | [Website](https://pharmapath.org) · [Guide](https://github.com/dylanwlim/pharmapath-docs) | Medication context and pharmacy-contact guidance, not live inventory |
+| Transcribble | [Website](https://transcribble.dylanwlim.com) · [Guide](https://github.com/dylanwlim/transcribble-docs) | Local-first recording, browser transcription, review, export, and optional private account saving |
+| Lumen | [Downloads](https://github.com/dylanwlim/lumen-updates/releases/latest) | macOS brightness and optional cursor controls |
+| Portfolio | [Website](https://dylanwlim.com) · [Guide](https://github.com/dylanwlim/portfolio-docs) | Professional profile, selected software, resume, and contact paths |
 
-## Contact
+These are selected public-facing products and resources, not a complete repository inventory. Some products require an account, and application source is private where indicated by its repository. The profile links only to intended public surfaces.
 
-For work, collaboration, or general conversations:
-
-- Website: [dylanwlim.com](https://dylanwlim.com)
-- LinkedIn: [linkedin.com/in/dylanwlim](https://www.linkedin.com/in/dylanwlim/)
-- Email: [dylan@wlim.work](mailto:dylan@wlim.work)
+For professional background and the current resume, use [dylanwlim.com](https://dylanwlim.com).
