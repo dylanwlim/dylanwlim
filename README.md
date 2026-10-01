@@ -12,7 +12,7 @@
 
 ## Current Focus
 
-I study Finance with a Computer Science minor at Fordham University. I build pharmacoinformatics research tools, local-first software, and focused Mac utilities.
+I study Finance with a Computer Science minor at Fordham University. I have an aptitude for pharmacoinformatics and enjoy reading Wikipedia articles in my free time.
 
 ## Selected Work
 
