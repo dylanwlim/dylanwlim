@@ -24,6 +24,4 @@ I study Finance with a Computer Science minor at Fordham University. I have an a
 | Lumen | [Downloads](https://github.com/dylanwlim/lumen-updates/releases/latest) | macOS brightness and optional cursor controls |
 | Portfolio | [Website](https://dylanwlim.com) · [Guide](https://github.com/dylanwlim/portfolio-docs) | Professional profile, selected software, resume, and contact paths |
 
-These are selected public-facing products and resources, not a complete repository inventory. Some products require an account, and application source is private where indicated by its repository. The profile links only to intended public surfaces.
-
-For professional background and the current resume, use [dylanwlim.com](https://dylanwlim.com).
+For my professional background and current resume, see [dylanwlim.com](https://dylanwlim.com).
