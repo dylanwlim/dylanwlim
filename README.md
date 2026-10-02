@@ -22,6 +22,6 @@ I study Finance with a Computer Science minor at Fordham University. I have an a
 | PharmaPath | [Website](https://pharmapath.org) · [Guide](https://github.com/dylanwlim/pharmapath-docs) | Medication context and pharmacy-contact guidance, not live inventory |
 | Transcribble | [Website](https://transcribble.dylanwlim.com) · [Guide](https://github.com/dylanwlim/transcribble-docs) | Local-first recording, browser transcription, review, export, and optional private account saving |
 | Lumen | [Downloads](https://github.com/dylanwlim/lumen-updates/releases/latest) | macOS brightness and optional cursor controls |
-| Portfolio | [Website](https://dylanwlim.com) · [Guide](https://github.com/dylanwlim/portfolio-docs) | Professional profile, selected software, resume, and contact paths |
+| Portfolio | [Website](https://dylanwlim.com) | Professional profile, selected software, resume, and contact paths |
 
 For my professional background and current resume, see [dylanwlim.com](https://dylanwlim.com).
