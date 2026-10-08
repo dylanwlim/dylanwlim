@@ -7,25 +7,18 @@
 <p align="center">
   <a href="https://dylanwlim.com">Website</a>
   &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/dylanwlim/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/dylanwlim/">LinkedIn</a>
   &nbsp; · &nbsp;
   <a href="mailto:dylan@wlim.work">Email</a>
 </p>
 
-## Current Focus
+I study **Finance** with a **Computer Science minor** at **Fordham University**. I build software for research, healthcare, and everyday work.
 
-I study Finance with a Computer Science minor at Fordham University. I have an aptitude for pharmacoinformatics and enjoy reading Wikipedia articles in my free time.
+## Selected work
 
-## Selected Work
-
-| Product | Public surface | Scope |
+| Project | What you can do | Explore |
 | --- | --- | --- |
-| Alpinix | [Website](https://alpinix.co) | Account-protected molecule and source-backed biotech research workspace |
-| PharmaPath | [Website](https://pharmapath.org) · [Guide](https://github.com/dylanwlim/pharmapath-docs) | Medication context and pharmacy-contact guidance, not live inventory |
-| Transcribble | [Website](https://transcribble.dylanwlim.com) · [Guide](https://github.com/dylanwlim/transcribble-docs) | Local-first recording, browser transcription, review, export, and optional private account saving |
-| Luminol | [Downloads](https://github.com/dylanwlim/lumen-updates/releases/latest) | macOS brightness and optional cursor controls |
-| Portfolio | [Website](https://dylanwlim.com) | Professional profile, selected software, resume, and contact paths |
-
-Luminol is the new name for Lumen. Published downloads still use the legacy Lumen name and update path while the compatible release transition is prepared.
-
-For my professional background and current resume, see [dylanwlim.com](https://dylanwlim.com).
+| **Alpinix** | Research biotech companies and their medicines. | [Visit](https://alpinix.co) |
+| **PharmaPath** | Find nearby pharmacies and review medication information. | [Visit](https://pharmapath.org) · [Guide](https://github.com/dylanwlim/pharmapath-docs) |
+| **Transcribble** | Record audio, review transcripts, and export your work. | [Visit](https://transcribble.dylanwlim.com) · [Guide](https://github.com/dylanwlim/transcribble-docs) |
+| **Luminol** | Adjust screen brightness and make your cursor easier to see. | [Download](https://github.com/dylanwlim/lumen-updates/releases/latest) · [Guide](https://github.com/dylanwlim/lumen-updates) |
