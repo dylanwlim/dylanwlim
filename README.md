@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="banner.svg" alt="Dylan W. Lim profile banner" width="100%">
+  <a href="https://dylanwlim.com">
+    <img src="banner.svg" alt="Dylan W. Lim. Finance and Computer Science at Fordham University. Visit dylanwlim.com." width="100%">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://dylanwlim.com">Website</a>
-  ·
-  <a href="https://www.linkedin.com/in/dylanwlim/">LinkedIn</a>
-  ·
-  <a href="mailto:dylan@wlim.work">Email</a>
+  <a href="https://dylanwlim.com">WEBSITE</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/dylanwlim/">LINKEDIN</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:dylan@wlim.work">EMAIL</a>
 </p>
 
 ## Current Focus

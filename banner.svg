@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="banner-title banner-desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="banner-title banner-desc">
   <title id="banner-title">Dylan W. Lim | Finance + Computer Science</title>
-  <desc id="banner-desc">Dylan W. Lim studies Finance with a Computer Science minor at Fordham University. Interests: finance, software, and healthcare. Website: dylanwlim.com. Email: dylan@wlim.work. A custom blue woven ribbon accompanies the typography on a deep navy background.</desc>
+  <desc id="banner-desc">Dylan W. Lim studies Finance with a Computer Science minor at Fordham University. Interests: finance, software, and healthcare. A custom blue woven ribbon accompanies the typography on a deep navy background.</desc>
   <defs>
     <linearGradient id="canvas" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
       <stop stop-color="#080F1C"/>
@@ -12,11 +12,6 @@
       <stop offset=".65" stop-color="#1D4C99" stop-opacity=".07"/>
       <stop offset="1" stop-color="#1D4C99" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="rule" x1="64" y1="0" x2="1136" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4E6F9B" stop-opacity=".46"/>
-      <stop offset=".55" stop-color="#42618C" stop-opacity=".28"/>
-      <stop offset="1" stop-color="#729CE5" stop-opacity=".34"/>
-    </linearGradient>
     <linearGradient id="top-edge" x1="64" y1="0" x2="1136" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#5985CB" stop-opacity="0"/>
       <stop offset=".72" stop-color="#5A94EF" stop-opacity=".3"/>
@@ -32,13 +27,13 @@
       <stop offset=".58" stop-color="#78A8F3"/>
       <stop offset="1" stop-color="#4B8BDD"/>
     </linearGradient>
-    <clipPath id="canvas-clip"><rect width="1200" height="360" rx="22"/></clipPath>
+    <clipPath id="canvas-clip"><rect width="1200" height="320" rx="22"/></clipPath>
     <clipPath id="art-clip"><path d="M724 20H1160V282H724Z"/></clipPath>
   </defs>
   <g clip-path="url(#canvas-clip)">
     <!-- Background: one uninterrupted canvas with a restrained local light. -->
-    <rect width="1200" height="360" fill="url(#canvas)"/>
-    <rect width="1200" height="360" fill="url(#art-light)"/>
+    <rect width="1200" height="320" fill="url(#canvas)"/>
+    <rect width="1200" height="320" fill="url(#art-light)"/>
     <path d="M64 1H1136" stroke="url(#top-edge)"/>
 
     <!-- Decorative vector sculpture. All geometry is local and script free. -->
@@ -327,24 +322,11 @@
         <circle cx="332" cy="55" r="1.6" fill="#5A7AA7"/>
         <text x="350" y="61">HEALTHCARE</text>
       </g>
-      <text id="name" x="59" y="155" fill="#F4F7FD" font-size="90" font-weight="700" letter-spacing="-3.9">Dylan W. Lim</text>
-      <text id="field" x="64" y="207" fill="#D3DFEF" font-size="32" font-weight="400" letter-spacing="-.65">Finance + Computer Science</text>
-      <text id="university" x="65" y="244" fill="#A0B4CE" font-size="23" font-weight="400" letter-spacing=".05">Fordham University</text>
+      <text id="name" x="59" y="155" fill="#F4F7FD" font-size="90" font-weight="700" letter-spacing="-1.5" word-spacing="3">Dylan W. Lim</text>
+      <text id="field" x="64" y="219" fill="#D3DFEF" font-size="32" font-weight="400" letter-spacing="0">Finance + Computer Science</text>
+      <text id="university" x="65" y="262" fill="#A0B4CE" font-size="23" font-weight="400" letter-spacing=".25">Fordham University</text>
     </g>
 
-    <!-- Contact strip. Contact details also appear as text in the description. -->
-    <path d="M64 284.5H1136" stroke="url(#rule)"/>
-    <g id="contacts" font-family="Arial, Helvetica, 'Nimbus Sans', sans-serif" font-size="23" font-weight="400" letter-spacing="-.2">
-      <g id="website">
-        <text x="64" y="328" fill="#E0EAF8">dylanwlim.com</text>
-        <path d="M223 325l9-9m-9 0h9v9" stroke="#78B8FF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-      </g>
-      <path d="M269 309v20" stroke="#345071"/>
-      <g id="email">
-        <path d="M305 310.5h20v15h-20zM305 311.5l10 7.5 10-7.5" stroke="#779CCB" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-        <text x="339" y="328" fill="#D0DFF3">dylan@wlim.work</text>
-      </g>
-    </g>
-    <rect x=".5" y=".5" width="1199" height="359" rx="21.5" stroke="#A5C5F7" stroke-opacity=".13"/>
+    <rect x=".5" y=".5" width="1199" height="319" rx="21.5" stroke="#A5C5F7" stroke-opacity=".13"/>
   </g>
 </svg>
