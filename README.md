@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://dylanwlim.com">WEBSITE</a>
+  <a href="https://dylanwlim.com">Website</a>
   &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/dylanwlim/">LINKEDIN</a>
+  <a href="https://www.linkedin.com/in/dylanwlim/">Linkedin</a>
   &nbsp; · &nbsp;
-  <a href="mailto:dylan@wlim.work">EMAIL</a>
+  <a href="mailto:dylan@wlim.work">Email</a>
 </p>
 
 ## Current Focus
