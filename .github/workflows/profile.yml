@@ -28,7 +28,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          for file in README.md banner.svg map.svg; do
+          for file in README.md banner.svg; do
             if [ ! -s "$file" ]; then
               echo "::error::Missing or empty $file"
               exit 1
@@ -37,7 +37,7 @@ jobs:
 
           while IFS= read -r file; do
             case "$file" in
-              ./.git/*|./.github/*|./README.md|./banner.svg|./map.svg)
+              ./.git/*|./.github/*|./README.md|./banner.svg)
                 ;;
               *)
                 echo "::error::Unexpected profile file: ${file#./}"
