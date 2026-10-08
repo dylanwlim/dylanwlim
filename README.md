@@ -21,7 +21,9 @@ I study Finance with a Computer Science minor at Fordham University. I have an a
 | Alpinix | [Website](https://alpinix.co) | Account-protected molecule and source-backed biotech research workspace |
 | PharmaPath | [Website](https://pharmapath.org) · [Guide](https://github.com/dylanwlim/pharmapath-docs) | Medication context and pharmacy-contact guidance, not live inventory |
 | Transcribble | [Website](https://transcribble.dylanwlim.com) · [Guide](https://github.com/dylanwlim/transcribble-docs) | Local-first recording, browser transcription, review, export, and optional private account saving |
-| Lumen | [Downloads](https://github.com/dylanwlim/lumen-updates/releases/latest) | macOS brightness and optional cursor controls |
+| Luminol | [Downloads](https://github.com/dylanwlim/lumen-updates/releases/latest) | macOS brightness and optional cursor controls |
 | Portfolio | [Website](https://dylanwlim.com) | Professional profile, selected software, resume, and contact paths |
+
+Luminol is the new name for Lumen. Published downloads still use the legacy Lumen name and update path while the compatible release transition is prepared.
 
 For my professional background and current resume, see [dylanwlim.com](https://dylanwlim.com).
