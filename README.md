@@ -21,4 +21,4 @@ I study **Finance** with a **Computer Science minor** at **Fordham University**.
 | **Alpinix** | Research biotech companies and their medicines. | [Visit](https://alpinix.co) |
 | **PharmaPath** | Find nearby pharmacies and review medication information. | [Visit](https://pharmapath.org) · [Guide](https://github.com/dylanwlim/pharmapath-docs) |
 | **Transcribble** | Record audio, review transcripts, and export your work. | [Visit](https://transcribble.dylanwlim.com) · [Guide](https://github.com/dylanwlim/transcribble-docs) |
-| **Luminol** | Adjust screen brightness and make your cursor easier to see. | [Download](https://github.com/dylanwlim/lumen-updates/releases/latest) · [Guide](https://github.com/dylanwlim/lumen-updates) |
+| **Luminol** | Adjust screen brightness and make your cursor easier to see. | [Download](https://github.com/dylanwlim/luminol-updates/releases/latest) · [Guide](https://github.com/dylanwlim/luminol-updates) |
