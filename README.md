@@ -12,7 +12,7 @@
   <a href="mailto:dylan@wlim.work">Email</a>
 </p>
 
-I study **Finance** with a **Computer Science minor** at **Fordham University**. I build software for research, healthcare, and everyday work.
+I study **Finance** and **Computer Science** at **Fordham University**. I build software for research, healthcare, and hold an interest in pharmacoinformatics. In my free time, I enjoy perusing Wikipedia.
 
 ## Selected work
 
