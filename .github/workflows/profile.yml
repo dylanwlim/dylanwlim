@@ -23,6 +23,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v7
+        with:
+          persist-credentials: false
 
       - name: Validate profile files
         shell: bash
@@ -35,13 +37,34 @@ jobs:
             fi
           done
 
-          while IFS= read -r file; do
+          git ls-files -z | while IFS= read -r -d '' file; do
             case "$file" in
-              ./.git/*|./.github/*|./README.md|./banner.svg)
+              .github/*|README.md|banner.svg)
                 ;;
               *)
-                echo "::error::Unexpected profile file: ${file#./}"
+                echo "::error::Unexpected profile file: $file"
                 exit 1
                 ;;
             esac
-          done < <(find . -type f | sort)
+          done
+
+          python3 - <<'PY'
+          from html.parser import HTMLParser
+          from pathlib import Path
+          from xml.etree import ElementTree
+
+          if ElementTree.parse("banner.svg").getroot().tag != "{http://www.w3.org/2000/svg}svg":
+              raise SystemExit("::error::banner.svg must have an SVG root")
+
+          class BannerReference(HTMLParser):
+              found = False
+
+              def handle_starttag(self, tag, attrs):
+                  if tag == "img" and dict(attrs).get("src") == "banner.svg":
+                      self.found = True
+
+          reference = BannerReference()
+          reference.feed(Path("README.md").read_text(encoding="utf-8"))
+          if not reference.found:
+              raise SystemExit("::error::README.md must display banner.svg")
+          PY
