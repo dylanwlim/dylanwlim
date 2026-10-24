@@ -9,7 +9,15 @@
   &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/dylanwlim/">LinkedIn</a>
   &nbsp; · &nbsp;
+  <a href="https://x.com/dylanwlim">X</a>
+  &nbsp; · &nbsp;
   <a href="mailto:dylan@wlim.work">Email</a>
 </p>
 
-I study **Finance** and **Computer Science** at **Fordham University**. I build software for research and healthcare, with an interest in pharmacoinformatics. In my free time, I enjoy perusing Wikipedia.
+I study **Finance** and **Computer Science** at **Fordham University**. I build software for research and healthcare, with an interest in pharmacoinformatics. I am open to freelance web development ([dylanwlim.com](https://dylanwlim.com)). In my free time, I enjoy perusing Wikipedia.
+
+## Projects
+
+- **[Luminol](https://github.com/dylanwlim/luminol-updates).** Brightness and cursor controls for the Mac menu bar.
+- **[Serine](https://serine.dylanwlim.com).** Record, transcribe, and find the moment you need. [Docs](https://github.com/dylanwlim/serine-docs).
+- **[PharmaPath](https://pharmapath.org).** Retired on October 11, 2026. The site preserves an overview of the former pharmacy search and medication lookup. [Docs](https://github.com/dylanwlim/pharmapath-docs).
