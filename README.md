@@ -7,6 +7,8 @@
 <p align="center">
   <a href="https://dylanwlim.com">Website</a>
   &nbsp; · &nbsp;
+  <a href="https://dylanwlim.com/hire">Hire me</a>
+  &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/dylanwlim/">LinkedIn</a>
   &nbsp; · &nbsp;
   <a href="https://x.com/dylanwlim">X</a>
@@ -14,7 +16,7 @@
   <a href="mailto:dylan@wlim.work">Email</a>
 </p>
 
-I study **Finance** and **Computer Science** at **Fordham University**. I build software for research and healthcare, with an interest in pharmacoinformatics. I am open to freelance web development ([dylanwlim.com](https://dylanwlim.com)). In my free time, I enjoy perusing Wikipedia.
+I study **Finance** and **Computer Science** at **Fordham University**. I build Mac apps, self-hosted tools, and websites. I'm open to freelance web development. Tell me what you need and get a free quote at [dylanwlim.com/hire](https://dylanwlim.com/hire). In my free time, I enjoy perusing Wikipedia.
 
 ## Projects
 
